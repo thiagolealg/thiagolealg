@@ -1,8 +1,7 @@
-# Olá, eu sou Thiago! 👋
+# Olá, eu sou Thiago
 
-## Sobre Mim
-🎓 Estudante de Ciência de Dados na faculdade Centro de Ensino Superior do Distrito Federal.<br>
-🔍 Apaixonado por descobrir insights nos dados e aplicar técnicas de Machine Learning.<br>
+Data Scientist
+
 
 ## Ferramentas e Tecnologias
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
