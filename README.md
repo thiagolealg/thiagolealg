@@ -1,6 +1,3 @@
-# Olá, eu sou Thiago
-
-Data Scientist
 
 
 ## Ferramentas e Tecnologias
